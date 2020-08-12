@@ -7,11 +7,6 @@
 <title>courses</title>
 </head>
 <body>
-top selling courses are
-1.java
-2.c++
-3.c
-4.python
-5.dev ops
+welcome to my world  // ${cname}
 </body>
 </html>
